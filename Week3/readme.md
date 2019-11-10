@@ -1,1 +1,1 @@
-
+Question 1: The single selection statement preforms the action once. The while repition statement repeats the action until the desired outcome becomes false. They are both similiar because they both evaulate a true or false statement. They differ by running multiple times until it is false or running one time until it is false. 
